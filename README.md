@@ -1,1 +1,1 @@
-# karabiner_config
+自用 karabiner_config
